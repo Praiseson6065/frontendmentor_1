@@ -21,7 +21,7 @@ main{
     background-color: white;
     display: flex;
     border-radius: 32px;
-    
+    box-shadow: 5px 5px 20px 5px rgba(89, 115, 146, 0.104);
 
 }
 .container_1{
@@ -51,7 +51,7 @@ main{
     text-align: center;
     font-weight: 600;
     font-size: 18px;
-    color: #c4baff
+    color: hsl(241, 100%, 89%);
 
 }
 .circle_wrap{
@@ -86,7 +86,8 @@ main{
     display: block;
 }
 .container_1 :last-child :last-child{
-    color: #e6e1ff;
+    color: hsl(241, 100%, 89%);
+    font-size: 18px;
 }
 .summary {
     font-weight: 600;
@@ -160,11 +161,11 @@ main{
     font-weight: 600;
 }
 .continue:hover{
-    background: linear-gradient(180deg,#603efb,#2e2be6);
+    background: linear-gradient(180deg,hsla(256, 72%, 46%, 1),hsla(241, 72%, 46%, 0.8));
 }
 
 
-@media screen and (max-device-width: 480px)
+@media screen and (max-device-width: 375px)
 {
     body{
         background-color: white;
