@@ -11,8 +11,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Praiseson6065/frontendmentor_1/blob/master/README-template.md)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/Praiseson6065/frontendmentor_1)
+- Live Site URL: [Site](https://praiseson6065.github.io/frontendmentor_1/)
 
 ## My process
 
